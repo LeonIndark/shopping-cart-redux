@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  p_id: 
+  type: 
+  title: MyString
+  description: MyText
+  quantity: 
+  price: 
+
+two:
+  p_id: 
+  type: 
+  title: MyString
+  description: MyText
+  quantity: 
+  price: 
